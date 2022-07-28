@@ -1,0 +1,50 @@
+{
+  "homescreen": {
+    "title": "Início"
+  },
+  "conversations": {
+    "title": "WhatsApp",
+    "message_placeholder": "Mensagem...",
+    "anonymous": "Anonimo",
+    "gps": "Posição no GPS"
+  },
+  "contacts": {
+    "me": "Meu numero: ",
+    "search": "Pesquisar",
+    "title": "Contatos",
+    "new": "Novo contato",
+    "name": "Nome:",
+    "name_placeholder": "Exemplo: John M.",
+    "phone": "Número:",
+    "phone_placeholder": "Exemplo: 555XXXXXX",
+    "new": "Criar contato",
+    "save": "Editar contato",
+    "message": "Enviar mensagem",
+    "delete": "Deletar contato",
+    "are_you_sure": "Tem certeza?",
+    "yes": "Sim",
+    "no": "Não",
+    "errors": {
+      "no_name": "Primeiro insira um nome no contato",
+      "no_phone": "Número não está no formato correto \"555XXXXXX\"",
+      "existing": "Esse contato já existe"
+    }
+  },
+  "bank": {
+    "title": "NuBank",
+    "balance": "Dinheiro na conta: ",
+    "history": "Extrato",
+    "loan": "Empréstimo",
+    "sendmoney": "Transferir",
+    "bills": "Pagar contas",
+    "comingsoon": "Desativado"
+  },
+  "emergency": {
+    "title": "Emergencia",
+    "subtitle": "Apenas acione se a emergência for real.",
+    "police": "Policiais",
+    "medic": "Médicos",
+    "reason": "Por que está ligando?",
+    "submit": "Preciso de socorro!"
+  }
+}

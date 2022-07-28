@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Taxi</title>
+
+
+    <script>
+        (function (obj) {
+            ue.game = {};
+            ue.game.callevent = function (name, ...args) {
+                if (typeof name != "string") {
+                    return;
+                }
+
+                if (args.length == 0) {
+                    obj.callevent(name, "")
+                }
+                else {
+                    let params = []
+                    for (let i = 0; i < args.length; i++) {
+                        params[i] = args[i];
+                    }
+                    obj.callevent(name, JSON.stringify(params));
+                }
+            };
+        })(ue.game);
+        CallEvent = ue.game.callevent;
+    </script>
+    <style>
+        .container {
+            position: fixed;
+            bottom: 20%;
+            right: 50px;
+            height: 100px;
+            width: 125px;
+            background-color: rgb(44,62,80,0.5);
+            border-top-left-radius: 8px;
+            border-bottom-left-radius: 50px;
+            border-top-right-radius: 35px;
+            border-bottom-right-radius: 20px;
+            display: flex;
+            flex-direction: column;
+        }
+
+
+        #text {
+            padding-top: 10px;
+            padding-left: 5px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+        }
+
+        #price {
+            padding-top: 4px;
+            padding-right: 8px;
+            text-align: right;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 40px;
+            font-weight: bold;
+            text-shadow:
+                -1px -1px 0 #ececec,
+                1px -1px 0 #ececec,
+                -1px 1px 0 #ececec,
+                1px 1px 0 #ececec;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div id="text">Prix course :</div>
+        <div id="price"></div>
+    </div>
+
+
+    <script>
+        function StartCourse(CourseTime) {
+
+            let priceElt = document.getElementById('price');
+
+            priceElt.innerText = Math.round(CourseTime) + "€";
+        }
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,47 @@
+{
+    "author": "Kemro",
+    "version": "1.0",
+    "server_scripts": [
+        "simpletp/server.lua",
+        "detector/server.lua",
+        "vehdoors.lua",
+        "screenbroke.lua"
+    ],
+    "client_scripts": [
+        "object.lua",
+        "simpletp/client.lua",
+        "detector/client.lua"
+    ],
+    "files": [
+        "detector/sound.mp3",
+        "plargefrontsign.pak",
+        "pmediumfrontsign.pak",
+        "psign.pak",
+        "psmallfrontsign.pak",
+        "pstaarrow.pak",
+        "taxisign.pak",
+        "tbillboardad.pak",
+        "troadsign.pak",
+        "twallsign.pak",
+        "keyboard.pak",
+        "pvehonly.pak",
+        "mouse.pak",
+        "luminousarrowtwo.pak",
+        "pcscreenfive.pak",
+        "pcscreenfour.pak",
+        "pcscreenone.pak",
+        "pcscreensix.pak",
+        "pcscreenthree.pak",
+        "pcscreentwo.pak",
+        "adscreentwo.pak",
+        "ecranhumoriste.pak",
+        "phone.pak",
+        "sol.pak",
+        "solbois.pak",
+        "plafon.pak",
+        "carpet.pak",
+        "panneauprefecture.pak",
+        "ascenseur.pak",
+        "luminousarrow.pak"
+    ]
+}

@@ -1,0 +1,229 @@
+
+
+[2020-11-15 16:10:53] Failed to read store 'install' from 'D:\Downloads\OnsetServer\config\config.vdf.tmp'
+[2020-11-15 16:10:55] Flushed store 'install' to 'D:\Downloads\OnsetServer\config\config.vdf'
+[2020-11-15 16:10:56] Flushed store 'install' to 'D:\Downloads\OnsetServer\config\config.vdf'
+[2020-11-15 16:10:57] Flushed store 'install' to 'D:\Downloads\OnsetServer\config\config.vdf'
+
+
+[2020-11-15 16:11:10] Loaded store 'install' from 'D:\Downloads\OnsetServer\config\config.vdf' successfully
+[2020-11-15 16:11:12] Flushed store 'install' to 'D:\Downloads\OnsetServer\config\config.vdf'
+
+
+[2020-11-15 16:16:56] Loaded store 'install' from 'D:\Downloads\OnsetServer\config\config.vdf' successfully
+[2020-11-15 16:16:58] Flushed store 'install' to 'D:\Downloads\OnsetServer\config\config.vdf'
+
+
+[2020-11-17 00:15:19] Loaded store 'install' from 'D:\Downloads\OnsetServer2.0-meu\OnsetServer\config\config.vdf' successfully
+[2020-11-17 00:15:21] Flushed store 'install' to 'D:\Downloads\OnsetServer2.0-meu\OnsetServer\config\config.vdf'
+
+
+[2020-11-17 00:23:48] Loaded store 'install' from 'D:\Downloads\OnsetServer2.0-meu\OnsetServer\config\config.vdf' successfully
+[2020-11-17 00:23:50] Flushed store 'install' to 'D:\Downloads\OnsetServer2.0-meu\OnsetServer\config\config.vdf'
+[2020-11-17 00:23:51] Flushed store 'install' to 'D:\Downloads\OnsetServer2.0-meu\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 20:04:03] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 20:04:05] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 20:04:46] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 20:04:48] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 20:20:23] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 20:20:25] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+[2020-11-19 20:20:26] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 20:24:40] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 20:24:42] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 20:54:17] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 20:54:19] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 20:55:21] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 20:55:22] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 21:03:36] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 21:03:38] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 21:23:04] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 21:23:05] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 21:46:48] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 21:46:50] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 21:47:54] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 21:47:55] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 22:01:23] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 22:01:25] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 22:04:17] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 22:04:19] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 22:09:02] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 22:09:04] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 22:11:49] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 22:11:51] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+[2020-11-19 22:11:52] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 22:13:44] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 22:13:46] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 22:16:50] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 22:16:52] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 22:26:46] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 22:26:48] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 22:38:01] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 22:38:03] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 22:40:56] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 22:40:58] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 22:44:30] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 22:44:32] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 22:47:34] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 22:47:36] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 22:48:22] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 22:48:24] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 22:50:41] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 22:50:43] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 22:55:41] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 22:55:43] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 22:58:23] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 22:58:25] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 23:01:53] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 23:01:54] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 23:03:14] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 23:03:16] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 23:27:06] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 23:27:08] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 23:33:53] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 23:33:55] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 23:38:14] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 23:38:16] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 23:40:09] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 23:40:11] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 23:43:29] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 23:43:31] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 23:45:03] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 23:45:05] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 23:45:55] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 23:45:57] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 23:53:46] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 23:53:48] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 23:55:43] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 23:55:45] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-19 23:57:32] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-19 23:57:34] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-20 00:01:44] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-20 00:01:46] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-20 00:12:32] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-20 00:12:34] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-20 00:17:57] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-20 00:17:59] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-20 00:22:32] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-20 00:22:33] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-20 00:29:41] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-20 00:29:43] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-20 00:31:05] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-20 00:31:07] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-20 00:39:29] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-20 00:39:31] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-20 00:45:42] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-20 00:45:44] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-20 00:47:28] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-20 00:47:30] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-20 03:12:39] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-20 03:12:41] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-21 21:39:40] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-21 21:39:42] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-21 22:00:02] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-21 22:00:04] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-21 22:01:08] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-21 22:01:10] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
+
+
+[2020-11-21 22:01:26] Loaded store 'install' from 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf' successfully
+[2020-11-21 22:01:28] Flushed store 'install' to 'D:\Downloads\OnsetServer2.1-MEU\OnsetServer\config\config.vdf'
